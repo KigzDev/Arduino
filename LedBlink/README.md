@@ -1,7 +1,7 @@
 # Arduino | Led Blink
 Uno sketch che fa lampeggiare un 1 led ogni secondo.
 
-## Materiali utilizzati
+## Materiale utilizzato
 
 * Arduino
 * Breadboard
