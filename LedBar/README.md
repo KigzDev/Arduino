@@ -1,5 +1,5 @@
 # Arduino | LedBar
-Uno sketch fa lampeggiare 3 led in sequenza 1s ciascuno.
+Uno sketch che fa lampeggiare 3 led in sequenza 1s ciascuno.
 
 ## Materiale utilizzato
 
